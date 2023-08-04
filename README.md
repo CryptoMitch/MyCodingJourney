@@ -4,9 +4,18 @@ This is a text file documenting my code-learning journey.
 ## Aug 2023
 - **Course:** SQL Programming Basics (Global Academy)
   - **Key Concepts:** Fundamentals of SQL programming.
+ 
+## July 2023
+  - **Experience:** Attend AWS Cloud Day conference at Perth Convention center and rub shoulders with many likeminded software developers. Solidify knowledge about AWS services and learn more about AI and ML.
+  - **Experience:** Assist Dr. Matt Bray in building his low-latency music software Telemidi.
+    - **Key Concepts:** AWS, React, HTML, CSS, Next.JS, AirTable, Softr.io
 
 ## June 2023
 - **Experience:** Write a 40,000-word cryptocurrency course for the Empress DAO in Dubai.
+
+## May 2023
+- **Experience:** In one weekend used No-code tools Softr.io and Airtable to create my first Software As a Service called the CryptoCompanion App. Which pulls in API information from various sources and renders it in my UI to enable crypto hobbyists to save time on crypto research.
+  - **Website:** https://www.cryptocompanion.app/
 
 ## April 2023
 - **Experience:** Quickly whip together the landing page for MASSIVE.fan using webflow.
@@ -128,6 +137,7 @@ This is a text file documenting my code-learning journey.
 ## Aug 2019
   - **Course:** App Development with Swift Foundations (RMIT Online)
     - **Key Concepts:** Fundamentals of app development using Swift language.
+  - **Experience:** Attend DDD Perth Developers conference and rub shoulders with many likeminded software developers.
  
 ## May 2019
 - **Course:** The Complete 2019 Web Development Bootcamp (The App Brewery)
