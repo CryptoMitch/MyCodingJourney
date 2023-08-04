@@ -5,6 +5,13 @@ This is a text file documenting my code-learning journey.
 - **Course:** SQL Programming Basics (Global Academy)
   - **Key Concepts:** Fundamentals of SQL programming.
 
+## June 2023
+- **Experience:** Write a 40,000-word cryptocurrency course for the Empress DAO in Dubai.
+
+## April 2023
+- **Experience:** Quickly whip together the landing page for MASSIVE.fan using webflow.
+  - **Website:** https://www.massive.fan
+
 ## Jan 2023
 - **Course:** AWS Certified Cloud Practitioner (Amazon Web Services)
   - **Key Concepts:** Fundamentals of cloud computing and AWS services.
@@ -59,6 +66,8 @@ This is a text file documenting my code-learning journey.
 
   - **Course:** Consulting Foundations: The Concept of Value (LinkedIn)
     - **Key Concepts:** Principles of value creation in consulting.
+   
+  - **Experience:** I was invited by TikTok's Head of Metaverse to explain the technicalities of the Metaverse to her.
 
 ## May 2022
   - **Course:** Building an Ethereum Blockchain App: 2 Introduction to Ethereum (LinkedIn)
@@ -66,10 +75,15 @@ This is a text file documenting my code-learning journey.
 
   - **Course:** Building an Ethereum Blockchain App: 1 Introduction to Blockchain (LinkedIn)
     - **Key Concepts:** Basics of blockchain technology and Ethereum.
+   
+  - **Experience:** Invited by Sylvester Stallone's team to advise them on how to give their NFT Series SLY Planet real world utility.
 
 ## April 2022
   - **Experience:** Design Website for AlpineX a Web3 Company.
   - **Experience:** Developed a metaverse strategy for clients, ensuring that their digital assets were properly integrated into the metaverse and that they could be used seamlessly by players.
+  - **Experience:** Technical Project Manager at Gamerplex
+    -  **Key Concepts:** Developed engaging and optimized games using Unreal Engine and Unity, ensuring a bug-free and immersive player experience. Created visually appealing 3D designs and graphics that aligned with game themes, enhancing the overall game aesthetics.
+  -  **Experience** Get hired by Rob Janoff, the creator of the Apple Logo, to teach his business about using crypto.
 
 ## Mar 2022
   - **Course:** Non-Fungible Course: Introduction to NFTs (Inevitable Future Institute)
@@ -80,6 +94,8 @@ This is a text file documenting my code-learning journey.
 
   - **Course:** Unreal: AR Visualization 01 Basic Concepts (LinkedIn)
     - **Key Concepts:** Basics of Augmented Reality (AR) visualization using Unreal Engine.
+   
+  - **Experience** - Begin freelance working on Patriot Fisheries' proof of freshness mobile app, which stores fishing data on the blockchain so the end consumer can see the provenance of the seafood they are eating. 
 
 ## Nov 2021
   - **Course:** The Complete NFT Course - Learn Everything About NFTs (Udemy)
@@ -94,14 +110,20 @@ This is a text file documenting my code-learning journey.
   - **Course:** Learn to Sell Anything by Grant Cardone (Grant Cardone Enterprises)
     - **Key Concepts:** Sales techniques and strategies by Grant Cardone.
    
-## Jun 2021
-- **Experience:** Design a website for Animal Concerts
-- **Website:** https://animalconcerts.com/
-- **Experience:** Set up Medium and begin writing blog posts about Web3 Tech https://medium.com/@CryptoMitchX
+## July 2021
+  - **Experience:** Design a website for Animal Concerts
+  - **Website:** https://animalconcerts.com/
+  - **Experience:** Set up Medium and begin writing blog posts about Web3 Tech https://medium.com/@CryptoMitchX
 
 ## Jun 2021
   - **Course:** Elite Traders Course (boom360trader.com)
     - **Key Concepts:** Technical analysis skills for trading cryptocurrencies.
+   
+## Feb 2021
+  - **Experience:** Began coaching fro cryptocurrency on SuperProf. Over the next 18 months, I would coach over 200 people.
+
+## Sept 2019
+  - **Experience:** Begin mentoring friends and family about how to use Cryptocurrency.
 
 ## Aug 2019
   - **Course:** App Development with Swift Foundations (RMIT Online)
