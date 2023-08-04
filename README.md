@@ -67,6 +67,10 @@ This is a text file documenting my code-learning journey.
   - **Course:** Building an Ethereum Blockchain App: 1 Introduction to Blockchain (LinkedIn)
     - **Key Concepts:** Basics of blockchain technology and Ethereum.
 
+## April 2022
+  - **Experience:** Design Website for AlpineX a Web3 Company.
+  - **Experience:** Developed a metaverse strategy for clients, ensuring that their digital assets were properly integrated into the metaverse and that they could be used seamlessly by players.
+
 ## Mar 2022
   - **Course:** Non-Fungible Course: Introduction to NFTs (Inevitable Future Institute)
     - **Key Concepts:** Introduction to Non-Fungible Tokens (NFTs) and their applications.
@@ -89,6 +93,11 @@ This is a text file documenting my code-learning journey.
 
   - **Course:** Learn to Sell Anything by Grant Cardone (Grant Cardone Enterprises)
     - **Key Concepts:** Sales techniques and strategies by Grant Cardone.
+   
+## Jun 2021
+- **Experience:** Design a website for Animal Concerts
+- **Website:** https://animalconcerts.com/
+- **Experience:** Set up Medium and begin writing blog posts about Web3 Tech https://medium.com/@CryptoMitchX
 
 ## Jun 2021
   - **Course:** Elite Traders Course (boom360trader.com)
