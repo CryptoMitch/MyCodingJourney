@@ -4,6 +4,7 @@ This is a text file documenting my code-learning journey.
 ## Aug 2023
 - **Course:** SQL Programming Basics (Global Academy)
   - **Key Concepts:** Fundamentals of SQL programming.
+- **Experience:** Begin documenting my Journey inside of Github as I've worked on so many private projects I didn't have much in my portfolio
  
 ## July 2023
   - **Experience:** Attend AWS Cloud Day conference at Perth Convention center and rub shoulders with many likeminded software developers. Solidify knowledge about AWS services and learn more about AI and ML.
