@@ -25,7 +25,8 @@ This is a text file documenting my code-learning journey.
 ## Jan 2023
 - **Course:** AWS Certified Cloud Practitioner (Amazon Web Services)
   - **Key Concepts:** Fundamentals of cloud computing and AWS services.
-
+- **Experience:** Write an in-depth list of cybersecurity hazards inside an excel spreadsheet and ways to combat them
+  
 ## Nov 2022
 - **Course:** Blockchain Council Member (Blockchain Council)
   - **Key Concepts:** Membership in the Blockchain Council.
