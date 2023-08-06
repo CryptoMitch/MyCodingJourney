@@ -15,7 +15,7 @@ This is a text file documenting my code-learning journey.
 - **Experience:** Write a 40,000-word cryptocurrency course for the Empress DAO in Dubai.
 
 ## May 2023
-- **Experience:** In one weekend used No-code tools Softr.io and Airtable to create my first Software As a Service called the CryptoCompanion App. Which pulls in API information from various sources and renders it in my UI to enable crypto hobbyists to save time on crypto research.
+- **Experience:** In one weekend used No-code tools Softr.io and Airtable to create my first Software As a Service called the CryptoCompanion App, which pulls in API information from various sources and renders it in my UI to enable crypto hobbyists to save time on crypto research.
   - **Website:** https://www.cryptocompanion.app/
 
 ## April 2023
@@ -87,11 +87,11 @@ This is a text file documenting my code-learning journey.
   - **Course:** Building an Ethereum Blockchain App: 1 Introduction to Blockchain (LinkedIn)
     - **Key Concepts:** Basics of blockchain technology and Ethereum.
    
-  - **Experience:** Invited by Sylvester Stallone's team to advise them on how to give their NFT Series SLY Planet real world utility.
+  - **Experience:** Invited by Sylvester Stallone's team to advise them on how to give their NFT Series SLY Planet real-world utility.
 
 ## April 2022
   - **Experience:** Design Website for AlpineX a Web3 Company.
-  - **Experience:** Developed a metaverse strategy for clients, ensuring that their digital assets were properly integrated into the metaverse and that they could be used seamlessly by players.
+  - **Experience:** Developed a metaverse strategy for clients, ensuring that their digital assets were properly integrated into the metaverse and could be used seamlessly by players.
   - **Experience:** Technical Project Manager at Gamerplex
     -  **Key Concepts:** Developed engaging and optimized games using Unreal Engine and Unity, ensuring a bug-free and immersive player experience. Created visually appealing 3D designs and graphics that aligned with game themes, enhancing the overall game aesthetics.
   -  **Experience** Get hired by Rob Janoff, the creator of the Apple Logo, to teach his business about using crypto.
@@ -106,7 +106,7 @@ This is a text file documenting my code-learning journey.
   - **Course:** Unreal: AR Visualization 01 Basic Concepts (LinkedIn)
     - **Key Concepts:** Basics of Augmented Reality (AR) visualization using Unreal Engine.
    
-  - **Experience** - Begin freelance working on Patriot Fisheries' proof of freshness mobile app, which stores fishing data on the blockchain so the end consumer can see the provenance of the seafood they are eating. 
+  - **Experience** - Begin freelance working on Patriot Fisheries' Proof of Freshness mobile app, which stores fishing data on the blockchain so the end consumer can see the provenance of the seafood they eat. 
 
 ## Nov 2021
   - **Course:** The Complete NFT Course - Learn Everything About NFTs (Udemy)
@@ -123,7 +123,7 @@ This is a text file documenting my code-learning journey.
    
 ## July 2021
   - **Experience:** Design a website for Animal Concerts
-  - **Website:** https://animalconcerts.com/
+    - **Website:** https://animalconcerts.com/
   - **Experience:** Set up Medium and begin writing blog posts about Web3 Tech https://medium.com/@CryptoMitchX
 
 ## Jun 2021
@@ -131,7 +131,7 @@ This is a text file documenting my code-learning journey.
     - **Key Concepts:** Technical analysis skills for trading cryptocurrencies.
    
 ## Feb 2021
-  - **Experience:** Began coaching fro cryptocurrency on SuperProf. Over the next 18 months, I would coach over 200 people.
+  - **Experience:** Began coaching for cryptocurrency on SuperProf. Over the next 18 months, I would coach over 200 people.
 
 ## Sept 2019
   - **Experience:** Begin mentoring friends and family about how to use Cryptocurrency.
@@ -139,7 +139,7 @@ This is a text file documenting my code-learning journey.
 ## Aug 2019
   - **Course:** App Development with Swift Foundations (RMIT Online)
     - **Key Concepts:** Fundamentals of app development using Swift language.
-  - **Experience:** Attend DDD Perth Developers conference and rub shoulders with many likeminded software developers.
+  - **Experience:** Attend the DDD Perth Developers conference and rub shoulders with many like-minded software developers.
  
 ## May 2019
 - **Course:** The Complete 2019 Web Development Bootcamp (The App Brewery)
@@ -155,11 +155,11 @@ This is a text file documenting my code-learning journey.
    
 - **Experience:** Started my first Web Development company called "Hamilton Development" (HAMDEV).
     - **Website:** Wix: https://www.alterationsbyruth.com.au/
-    - **Website:** Wordpress: https://leschenaultcommunitynursery.com.au/
-    - **Website:** Wordpress: https://www.advancedautosolutions.com.au/detailing
+    - **Website:** WordPress: https://leschenaultcommunitynursery.com.au/
+    - **Website:** WordPress: https://www.advancedautosolutions.com.au/detailing
 
 ## 2007 
-  - **Experience:** Built my own gaming computer as a teenager. I bought the parts from PLE Computers in Perth. It cost me $2000 of my hard-earned money from working my first job at Caltex Karratha.
+  - **Experience:** Built my first gaming computer as a teenager. I bought the parts from PLE Computers in Perth. It cost me $2000 of my hard-earned money from working my first job at Caltex Karratha.
 
 
 ## 2004 
