@@ -7,8 +7,8 @@ This is a text file documenting my code-learning journey.
 - **Experience:** Begin documenting my Journey inside of Github as I've worked on so many private projects I didn't have much in my portfolio
  
 ## July 2023
-  - **Experience:** Attend AWS Cloud Day conference at Perth Convention center and rub shoulders with many likeminded software developers. Solidify knowledge about AWS services and learn more about AI and ML.
-  - **Experience:** Assist Dr. Matt Bray in building his low-latency music software Telemidi.
+  - **Experience:** Attend the AWS Cloud Day conference at Perth Convention Center and rub shoulders with many like-minded software developers. Solidify knowledge about AWS services and learn more about AI and ML.
+  - **Experience:** Assist Dr Matt Bray in building his low-latency music software Telemidi.
     - **Key Concepts:** AWS, React, HTML, CSS, Next.JS, AirTable, Softr.io
 
 ## June 2023
@@ -19,19 +19,19 @@ This is a text file documenting my code-learning journey.
   - **Website:** https://www.cryptocompanion.app/
 
 ## April 2023
-- **Experience:** Quickly whip together the landing page for MASSIVE.fan using webflow.
+- **Experience:** Quickly whip together the landing page for MASSIVE.fan using WebFlow.
   - **Website:** https://www.massive.fan
 
 ## Jan 2023
 - **Course:** AWS Certified Cloud Practitioner (Amazon Web Services)
   - **Key Concepts:** Fundamentals of cloud computing and AWS services.
-- **Experience:** Write an in-depth list of cybersecurity hazards inside an excel spreadsheet and ways to combat them
+- **Experience:** Write an in-depth list of cybersecurity hazards inside an Excel spreadsheet and ways to combat them
   
 ## Nov 2022
 - **Course:** Blockchain Council Member (Blockchain Council)
   - **Key Concepts:** Membership in the Blockchain Council.
  
-- **Experience:** Lead the team that launched the Ocean Floor Music NFT Marketplace. I was Head of Technology at that point.
+- **Experience:** Led the team that launched the Ocean Floor Music NFT Marketplace. I was Head of Technology at that point.
   - **Website:** https://marketplace.oceanfloor.io/
 
 ## Sep 2022
@@ -70,6 +70,8 @@ This is a text file documenting my code-learning journey.
 
   - **Course:** Introduction to C# with Unity (LinkedIn)
     - **Key Concepts:** Basics of C# programming within Unity game development.
+   
+  - **React Concepts Grasped** - Components, State, Props, 
 
 ## Jul 2022
   - **Course:** Transformational Leadership (LinkedIn)
@@ -136,6 +138,8 @@ This is a text file documenting my code-learning journey.
 ## Sept 2019
   - **Experience:** Begin mentoring friends and family about how to use Cryptocurrency.
 
+- **CSS Concepts Grasped** - Flexbox
+
 ## Aug 2019
   - **Course:** App Development with Swift Foundations (RMIT Online)
     - **Key Concepts:** Fundamentals of app development using Swift language.
@@ -152,6 +156,10 @@ This is a text file documenting my code-learning journey.
     - Bash Command Line
     - Git, GitHub and Version Control
     - Web Design
+
+  - **HTML Concepts Grasped** - Tags, Elements, Attributes, Forms, Links, Nav, Lists, Tables, Metadata
+  - **CSS Concepts Grasped** - Selectors, Properties, Box Model, Media Queries, Bootstrap
+  - **JavaScript Concepts Grasped** - Variables, Data Types, Functions, Conditionals, Loops, DOM, Events
    
 - **Experience:** Started my first Web Development company called "Hamilton Development" (HAMDEV).
     - **Website:** Wix: https://www.alterationsbyruth.com.au/
