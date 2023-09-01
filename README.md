@@ -2,6 +2,8 @@
 This is a text file documenting my code-learning journey.
 
 ## Aug 2023
+- **Github:** 183 commits in August across eight repositories, including 8 LeetCode questions solved, 7 challenges, 6 projects, 11 algorithms practiced.
+- **Mentoring:** Was invited by the Founder of SheCodes to be a mentor. Began Mentoring Sophie in Python.
 - **Course:** SQL Programming Basics (Global Academy)
   - **Key Concepts:** Fundamentals of SQL programming.
 - **Experience:** Begin documenting my Journey inside of Github as I've worked on so many private projects I didn't have much in my portfolio
